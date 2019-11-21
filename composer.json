@@ -17,7 +17,7 @@
         "doctrine/doctrine-bundle": "~1.5",
         "sensio/framework-extra-bundle": "~3.0",
 
-        "gedmo/doctrine-extensions": "dev-master",
+        "gedmo/doctrine-extensions": "2.4.37",
         "stfalcon/tinymce-bundle": "~1.1|~2.1",
 
         "nfq-rho/admin-bundle": "~0.5"
